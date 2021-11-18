@@ -1,10 +1,12 @@
 
 ![giphy](https://user-images.githubusercontent.com/26355917/142491756-5aa2eec0-806b-4f68-9c85-2d44f2f442b2.gif)
 
-# COVID 19
-DATA EXPLORATION
+# COVID 19 DATA EXPLORATION
 
-<!-- covid data analysis here -->
+
+* Quries : Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+* Calculated the likelihood of dying if one contracts Covid in different countries
+* Analyzed Total Population vs Vaccinations to check Percentage of Population that has recieved at least one dose of Covid Vaccine
 
 # Global Numbers
 
