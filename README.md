@@ -1,5 +1,5 @@
 
-![Untitled design (1)](https://user-images.githubusercontent.com/26355917/142489465-d1a49a2b-fd58-4b1d-b082-19c534b5b30d.png)
+![giphy](https://user-images.githubusercontent.com/26355917/142491756-5aa2eec0-806b-4f68-9c85-2d44f2f442b2.gif)
 
 # COVID 19
 DATA EXPLORATION
